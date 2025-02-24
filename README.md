@@ -16,9 +16,9 @@ From _[Releases](https://github.com/tibold/svg-explorer-extension/releases)_ dow
 
 This may happen if the thumbnail's are disabled in the system. To verify that it is indeed turned on:
 
-* Open the start menu
-* Search for `File Explorer Options` and open it
-* Under the `View` tab make sure that the `Always show icons, never thumbnails` is __unchecked__
+* Open __File Explorer__. *Win+E* or `Start Menu > File Explorer`
+* Click on the extended menu (...) and open the __Options__
+* Under the `View` tab make sure that the `Always show icons, never thumbnails` is *unchecked*
 
 ### Method 2:
 
